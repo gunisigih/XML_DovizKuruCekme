@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\bin\Debug\DovizKurlarıDataSource.exe.config
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\bin\Debug\DovizKurlarıDataSource.exe
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\bin\Debug\DovizKurlarıDataSource.pdb
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.Form1.resources
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.exe
+C:\Users\Section2\source\repos\NT_XML1\DovizKurlarıDataSource\obj\Debug\DovizKurlarıDataSource.pdb
